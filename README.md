@@ -61,5 +61,5 @@ AND MORE!
 4. Heart parameters are less likely to influence one another.
 5. High cholesterol and low ST depression value suggests heart disease more than any other combination.
 # Author
-Pritom Paul Supto
+Pritom Paul Supto -
 GitHub: https://github.com/prit564
