@@ -55,11 +55,24 @@ AND MORE!
 4. F1 Score
 
 # Key Insights:
-1. It is not exaggeration to say age group 55-65 are seen to have most of the heart disease cases.
-2. No specific factor alone can be determinant to heart diseases.
+1. It is not an exaggeration to say that age group 55-65 is seen to have the most heart disease cases.
+2. No specific factor alone can be determinant for heart diseases.
 3. Certain chest pain types are highly predictive.
 4. Heart parameters are less likely to influence one another.
-5. High cholesterol and low ST depression value suggests heart disease more than any other combination.
+5. High cholesterol and low ST depression value suggest heart disease more than any other combination.
+# Images
+### Age vs Chest Pain Type vs Disease
+![Age vs Chest Pain Type vs Heart Disease](images/age_vs_cp_vs_disease.png)
+* Certain chest pain types (such as cp = 1 and cp = 3) show slightly higher median ages for patients with heart disease.
+---
+### Age vs Disease
+![Age vs Disease](images/age_vs_disease.png)
+* Approximately the same number of disease and non-disease patients with a similar age group were found. This concludes that age doesn't strongly define whether a patient has heart disease or not.
+---
+### Age vs Max Heart Rate
+![Age vs Max Heart Rate](images/max_heart_rate_vs_age.png)
+* Heart rates vary for each age group, i.e., no specific pattern found between age groups with a specific range of heart rates.
+---
 # Author
 Pritom Paul Supto -
 GitHub: https://github.com/prit564
